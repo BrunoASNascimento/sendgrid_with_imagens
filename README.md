@@ -1,3 +1,3 @@
-# SAS Analytucs - Card Gentileza
+# SAS Analytics - Card Gentileza
 
 ## Env
