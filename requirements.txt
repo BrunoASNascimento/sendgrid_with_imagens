@@ -1,0 +1,6 @@
+pandas==1.1.2
+opencv==4.0.1
+pillow==7.2.0
+py-opencv==4.0.1
+sendgrid==6.0.5
+gspread==3.6.0

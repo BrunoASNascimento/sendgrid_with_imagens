@@ -1,0 +1,2 @@
+SEND_GRID = "<YOUR KEY>"
+KEY_IMGBB = "<YOUR KEY>"
