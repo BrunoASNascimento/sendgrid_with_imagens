@@ -1,4 +1,4 @@
-# SAS Analytics - Card Gentileza
+# Envio de emails com alteração de imagens
 
 ## Descrição:
 
