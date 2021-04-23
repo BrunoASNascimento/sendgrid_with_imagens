@@ -2,7 +2,7 @@
 
 ## Descrição:
 
-A função email_with_image faz a leitura do Google Sheets com as respostas do formulário do Card da Gratidão e faz o envio do email utilizando as APIs do [Sendgrid](https://sendgrid.com/) e [Imgbb](https://imgbb.com/).
+A função email_with_image faz a leitura do Google Sheets com as respostas do formulário e faz o envio do email utilizando as APIs do [Sendgrid](https://sendgrid.com/) e [Imgbb](https://imgbb.com/).
 
 ## Requisitos
 
