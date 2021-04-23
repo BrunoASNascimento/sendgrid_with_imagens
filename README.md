@@ -13,7 +13,7 @@ A função email_with_image faz a leitura do Google Sheets com as respostas do f
 - premailer (Modifica o HTML para se adequar ao sendgrid)
 - PIL (Manipulação de imagens)
 - cv2 (Manipulação de imagens)
-- pandas (Manipulação de tados tabelados)
+- pandas (Manipulação de dados tabelados)
 
 ### Env:
 
